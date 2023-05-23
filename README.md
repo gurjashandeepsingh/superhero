@@ -1,7 +1,5 @@
 # SuperHeroHunter
 
-You can watch it live at https://rayyanrahman.github.io/SuperHeroHunter/
-
 Main Page
 
     1.How to fetch data from API.
